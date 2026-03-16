@@ -21,7 +21,7 @@ A Python program that generates **QR codes for different types of information**.
 
 ## **Usage**
 
-1. Clone the repository or download `qr_code_generator.py`.
+1. Clone the repository or download `generator.py`.
 2. Install the required libraries:
 
 ```bash
@@ -31,7 +31,7 @@ pip install qrcode[pil] validators
 3. Run the program:
 
 ```bash
-python qr_code_generator.py
+python generator.py
 ```
 
 4. Choose what type of information you want to store in the QR code.
